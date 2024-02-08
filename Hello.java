@@ -3,7 +3,7 @@ public class Hello {
 		System.out.println("Step 1.5");
 		System.out.println("Step 1.7");
 		for (int i=1;i<=10;i++) {
-			System.out.println("Hello World..."+i);
+			System.out.println("Hello World...from fork"+i);
 		}
 	}
 }
